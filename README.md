@@ -20,3 +20,17 @@ O desafio consistia em trabalhar com uma matriz 2D, onde era necessário extrair
 
 
 ------------------------------------------------------
+
+Imagens de ao menos 3 partes do código explicando do que se trata o bloco evidenciado:
+
+
+![img_1](https://user-images.githubusercontent.com/118143111/228906499-fc9c9f31-32b4-4856-bf94-69b28d5787f8.PNG)
+
+
+![img_2](https://user-images.githubusercontent.com/118143111/228906550-d32e96c2-ed62-4c09-a1c0-e08a76e94ac2.PNG)
+
+
+![img_3](https://user-images.githubusercontent.com/118143111/228906577-bfa5cd42-bdf5-474c-9243-fd73af4b288c.PNG)
+
+
+
