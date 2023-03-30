@@ -29,6 +29,7 @@ Imagens de ao menos 3 partes do código explicando do que se trata o bloco evide
 
 //Img 2-----------------------------------------------//
 ![img_2](https://user-images.githubusercontent.com/118143111/228906550-d32e96c2-ed62-4c09-a1c0-e08a76e94ac2.PNG)
+
 //Img 2-----------------------------------------------//
 
 
