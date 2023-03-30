@@ -45,7 +45,7 @@ Classe com o nome de SubArrIdxPos, que basicamente é o nome mínimo para Sub-ar
 
 ![img_3](https://user-images.githubusercontent.com/118143111/228920042-d4adf971-a8e5-4ac9-93d8-87886cda85f8.PNG)
 
-É um método da classe SubArrIdxPos com o objetivo de associar os valores dos elementos da lista self.items com suas respectivas posições no dicionário. Isso é realizado pegando os valores da posição através da chave que são exatamente os elementos da lista self.items.
+É um método da classe SubArrIdxPos com o objetivo de associar os valores dos elementos da lista self.items com suas respectivas posições no dicionário. Isso é realizado pegando os valores da posição através da chave que são exatamente os elementos da lista self.items. E finalmente tais valores são adicionados na lista self.pos .
 
 //Img 3-----------------------------------------------//
 
