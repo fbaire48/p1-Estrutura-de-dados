@@ -25,20 +25,20 @@ Imagens de ao menos 3 partes do código explicando do que se trata o bloco evide
 
 //Img 1-----------------------------------------------//
 
-![img_1](https://user-images.githubusercontent.com/118143111/228906499-fc9c9f31-32b4-4856-bf94-69b28d5787f8.PNG)
+![img_1](https://user-images.githubusercontent.com/118143111/228919956-544d6db4-0615-4c2b-9db9-3d9e4853f627.PNG)
 
 //Img 1-----------------------------------------------//
 
 //Img 2-----------------------------------------------//
 
-![img_2](https://user-images.githubusercontent.com/118143111/228906550-d32e96c2-ed62-4c09-a1c0-e08a76e94ac2.PNG)
+![img_2](https://user-images.githubusercontent.com/118143111/228919993-b9da69c0-d1f2-487f-b63e-59a189cae0a6.PNG)
 
 //Img 2-----------------------------------------------//
 
 
 //Img 3-----------------------------------------------//
 
-![img_3](https://user-images.githubusercontent.com/118143111/228906577-bfa5cd42-bdf5-474c-9243-fd73af4b288c.PNG)
+![img_3](https://user-images.githubusercontent.com/118143111/228920042-d4adf971-a8e5-4ac9-93d8-87886cda85f8.PNG)
 
 //Img 3-----------------------------------------------//
 
