@@ -3,9 +3,13 @@
 ![uni_vassouras](https://user-images.githubusercontent.com/118143111/228887189-207ea6c6-72aa-4c50-bf97-80c65b7038e9.png)
 
 Curso: Engenharia de Software.
+
 Participantes: Nicolas Vítor C. de Oliveira e Luís Duarte.
+
 Disciplina: Estrutura de Dados.
+
 Período: 3º.
+
 Professor: Márcio Alexandre Dias Garrido.
 
 ------------------------------------------------------
