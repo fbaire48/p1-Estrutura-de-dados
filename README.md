@@ -28,7 +28,7 @@ Imagens de ao menos 3 partes do código explicando do que se trata o bloco evide
 ![img_1](https://user-images.githubusercontent.com/118143111/228920710-8fad2c74-10f4-4ee3-9d14-7afab1f2ef54.PNG)
 
 
-Classe com o nome de SubArrIdxPos, que basicamente é o nome mínimo para Sub-array Index e Position, ou seja, vem de uma matriz, nesse caso, 2D. A classe recebe uma matriz e cria uma lista para os elementos e posições do sub-array, tanto como um dicionário, também para os elementos e posições. São criadas duas listas, uma para os elementos e outra para as posições, ambas do sub-array, para garantir que o output seja exatamente o que foi solicitado.
+Classe com o nome de SubArrIdxPos, que basicamente é o nome mínimo para Sub-array Index e Position, ou seja, vem de uma matriz, nesse caso, 2D. A classe recebe uma matriz e cria um dicionário para os elementos e posições do sub-array. Também são criadas duas listas, uma para os elementos e outra para as posições, ambas do sub-array, para garantir que o output seja exatamente o que foi solicitado.
 
 //Img 1-----------------------------------------------//
 
