@@ -27,11 +27,16 @@ Imagens de ao menos 3 partes do código explicando do que se trata o bloco evide
 
 ![img_1](https://user-images.githubusercontent.com/118143111/228920710-8fad2c74-10f4-4ee3-9d14-7afab1f2ef54.PNG)
 
+
+Classe com o nome de SubArrIdxPos, que basicamente é o nome mínimo para Sub-array Index e Position, ou seja, vem de uma matriz, nesse caso, 2D. A classe recebe uma matriz e cria uma lista para os elementos e posições do sub-array. São criadas duas listas, uma para os elementos e outra para as posições, ambas do sub-array, para garantir que o output seja exatamente o que foi solicitado.
+
 //Img 1-----------------------------------------------//
 
 //Img 2-----------------------------------------------//
 
 ![img_2](https://user-images.githubusercontent.com/118143111/228919993-b9da69c0-d1f2-487f-b63e-59a189cae0a6.PNG)
+
+É um método da classe SubArrIdxPos com o objetivo de pegar os elementos e as posições do sub-array e colocá-los, respectivamente, no dicionário self.item_pos (elemento e posição) e na lista self.items (array 1D) (apenas o elemento).
 
 //Img 2-----------------------------------------------//
 
@@ -39,6 +44,8 @@ Imagens de ao menos 3 partes do código explicando do que se trata o bloco evide
 //Img 3-----------------------------------------------//
 
 ![img_3](https://user-images.githubusercontent.com/118143111/228920042-d4adf971-a8e5-4ac9-93d8-87886cda85f8.PNG)
+
+É um método da classe SubArrIdxPos com o objetivo de associar os valores dos elementos da lista self.items com suas respectivas posições no dicionário. Isso é realizado pegando os valores da posição através da chave que são exatamente os elementos da lista self.items.
 
 //Img 3-----------------------------------------------//
 
